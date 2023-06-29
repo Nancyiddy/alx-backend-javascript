@@ -1,2 +1,1 @@
-# alx-backend-javascript
-ALX Backend Projects
+0x01-ES6_promise
